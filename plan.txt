@@ -1,0 +1,24 @@
+@Functioanlites
+[-] Authentication:
+    [-] Email Authentication
+    [-] Remember me
+    [-] Login in with [Google, Facebook]
+    [-] Forget Password
+[-] Search
+    [-] By (name, QRCode)
+    [-] result bases on top rated and top discounts from the [nearest markets (location of the user)]
+    [-] 
+[]
+
+
+@Roles
+[-] User
+    [-] Registers
+    [-] upload profile picture
+    [-] can add to cart
+
+
+
+[-] Admin 
+    [-] can approve
+@apis
