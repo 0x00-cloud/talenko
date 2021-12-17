@@ -1,14 +1,26 @@
 @Functioanlites
 [-] Authentication:
     [-] Email Authentication
+    [-] Email verification [either by sending verification code using sms, or using Authentication providers (Authy)]
     [-] Remember me
     [-] Login in with [Google, Facebook]
     [-] Forget Password
+    [-] Reset Password
 [-] Search
     [-] By (name, QRCode)
     [-] result bases on top rated and top discounts from the [nearest markets (location of the user)]
-    [-] 
-[]
+    [-] output the result for the user after 0.3s (debounce);
+[-] Error Handling & Validation 
+
+
+[-] notifications
+    [-] user will be notified when the market owner prove or decline the shipment
+    [-] user will be notified about new updates
+    
+
+the application should provide error handling for each predictable situation
+    [-] Validate the request
+[-] Maintaince system.
 
 
 @Roles
@@ -16,9 +28,20 @@
     [-] Registers
     [-] upload profile picture
     [-] can add to cart
+    [-] can rate the market
 
 
 
 [-] Admin 
-    [-] can approve
+    [-] can approve or decline the cart of the user
+    [-] will track and acknowledge the user of the shipment progress
+    [-] can upload photos of the product available
 @apis
+version your apis.
+@@authentication
+
+
+@@ searching
+
+
+@@ purchasing

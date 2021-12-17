@@ -21,7 +21,7 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
-
+plan.txt
 # nyc test coverage
 .nyc_output
 
