@@ -45,3 +45,10 @@ version your apis.
 
 
 @@ purchasing
+
+
+
+
+## what to do ?
+[-] make a list of the required api based on the user and app functionality inside a rest.http file to test quickly on the fly
+[-] make a list of the 3rd party services you'll be using
